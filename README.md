@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/jrosie066/lerna-repo-sample.svg)](https://greenkeeper.io/)
+
 lerna run <cmd>
 this will run a command that is in any of the packages
 if all apps have a "start" script, `lerna run start` will run all at the same time
